@@ -10,7 +10,7 @@ The following **required** functionality is completed:
 
 - [X] Table rows for search results should be dynamic height according to the content height. (3pt)
 - [X] Custom cells should have the proper Auto Layout constraints. (+5pt)
-- [] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does). (+2pt)
+- [X] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does). (+2pt)
 
 The following **stretch** features are implemented:
 
@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
+1. How to implement a functioning search bar :(
 2.
 
 ## Video Walkthrough
